@@ -6,6 +6,11 @@
 print('hello world!')
 ```
 
+- [x] add a title
+- [x] add an image
+- [x] add code
+- [ ] add a checklist
+
 
 
 
